@@ -6,7 +6,7 @@ fn main() {
 
         if count >= 5 {
             break; 
-        }
+        } 
 
         count += 1;
     }
