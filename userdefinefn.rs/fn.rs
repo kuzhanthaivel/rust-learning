@@ -1,5 +1,5 @@
 fn main() {
-    greet();
+   
     greet("Alice");
     println!("3 + 4 is {}", add(3, 4));
     println!("Factorial of 5 is {}", factorial(5));
